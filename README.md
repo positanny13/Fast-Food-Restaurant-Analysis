@@ -1,3 +1,4 @@
+### PROJECT OVERVIEW
 ### This project analyzes sales transactions from a local restaurant, providing valuable insights into the restaurant's operations and customer behavior. The dataset includes information such as order ID, transaction date, item names, item types (categorized as Fastfood or Beverages), item prices, quantities ordered, transaction amounts, transaction types (cash, online, or others), the gender of the staff member who received the order, and the time of sale (Morning, Evening, Afternoon, Night, Midnight).
 
 ### The main objectives of this project are:
